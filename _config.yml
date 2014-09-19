@@ -9,14 +9,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Joshua Lande
-tagline:          'Data Science, Apache Pig, Hadoop, Blogging, Tweets, Astrophysics'
-url:              http://www.joshualande.com
-shorturl:         joshualande.com
+title:            PixelChips.info
+tagline:          'Silicon Pixel Sesnosrs, Chip Design, Physics'
+url:              http://www.pixelchips.info
+shorturl:         pixelchips.info
 
 author:
-  name:           'Joshua Lande'
-  url:            https://twitter.com/joshualande
+  name:           'Tomasz Hemperek'
+  url:            https://twitter.com/themperek
 
 paginate:         1
 
@@ -24,7 +24,7 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           github.com/joshualande/joshualande.github.io
+  repo:           github.com/themperek/themperek.github.io
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
