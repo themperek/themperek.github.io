@@ -1,3 +1,3 @@
-This is the personal website of Joshua Lande, hosted by [GitHub Pages](http://pages.github.com). You can find it at [joshualande.com](http://joshualande.com).
+This is the personal website of Tomasz Hemperek, hosted by [GitHub Pages](http://pages.github.com). You can find it at [pixelchips.info](http://pixelchips.info/).
 
-The sitemap.xml file was inspired by [this post](http://jethrokuan.github.io/2013/12/20/SEO-with-Jekyll.html).
+The site is based on https://github.com/joshualande/joshualande.github.io
