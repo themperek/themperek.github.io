@@ -3,7 +3,9 @@ layout: page
 title: About
 ---
 
-![Here I am](/assets/HemperekTomaszBW.jpg)
+<img style="margin: 0px 50px 0px 50px;" src="/assets/HemperekTomaszBW.jpg">
+
+#![Here I am]()
 
 I am a ...
 
