@@ -9,8 +9,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            PixelChips.info
-tagline:          'Silicon Pixel Sesnosrs and Chip Design'
+title:            PixelChips
+tagline:          'Silicon Pixel Sesnosrs and Integrated Circuits Design'
 url:              http://www.pixelchips.info
 shorturl:         pixelchips.info
 
@@ -30,7 +30,7 @@ github:
 pages_list:       
   About: '/about/'
   Archive: '/archive/'
-  Feed: '/atom.xml'
+#  Feed: '/atom.xml'
 
 # Allow URL Redirects: 
 #  * https://help.github.com/articles/redirects-on-github-pages
