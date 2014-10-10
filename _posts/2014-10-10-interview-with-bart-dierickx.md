@@ -15,8 +15,11 @@ Hope to have more interviews and related post in future. To stay in touch follow
 **Yesterday, someone from Tower Jazz said “Belgium is famous for three things : chocolate, beer and image sensors.” How does this sound to you?**
 
 At the Faculty of Engineering of Leuven University there was a group making CCDs under the leadership of prof. Gilbert Declerck.  At that time, like many universities, Leuven University had a CCD process. Three months after I arrived at the university, January 1984, IMEC was founded and this entire CCD group was transferred to IMEC. In this way IMEC had initially a CCD process and we were doing CCD projects. I started designing a CCD for the readout of an infrared CMT array. The next project, which later became my PhD, was again an infra-red CCD detector that should work below 4 kelvin. 
+
 Sadly, CCDs do not work at those temperatures because dopants (acceptors, donors) become trapping centers in such amounts that no charge is transferred. So we brainstormed: CCDs do not work, maybe CMOS can work? A friend worked at the physics department at the other side of the street and had access to liquid Helium. We took an n-MOSFET and 3 long wires to observe real time operation of the device on a “curve tracer”. We dropped it the liquid Helium and we saw the now well-understood “noisy / kinky / hysteresis” response of the MOSFET.  My boss [Jan Vermeiren, now CTO of Xenics] said “this is a disaster we cannot make any circuit out of this”, but he allowed me to take the chance.  We needed to understand the phenomena observed, and use them to our advantage.   With proper choice of cascoding, proper balancing, selection of operating points, feedback and calibration we could make sufficiently linear circuits reaching the specs.  We managed to design nice zero-bias CTIAs that worked.  We were first to make 4 Kelvin CMOS analog circuits.  In the same period Erik Heijne of CERN came on sabbatical to our group and he and I and Jan Bosiers [now CTO of Teledyne-Dalsa] brainstormed a lot about event detecting CMOS sensors for HE-physics.
-And naturally you started making image sensors for space? 
+
+**And naturally you started making image sensors for space?**
+
 It was believed at that time that CMOS is for low-end and CCD for high-end but very soon CMOS started to eat up the low-end, all radiation-hard applications and all low temperature applications.  CCD remained strong in classical visible light. At that point we were in competition with our own IMEC CCD process.  We wanted to make CMOS circuits, but it became really cumbersome to use the in-house CMOS process, so we had to do CMOS outdoors and we went to an external foundry, MIETEC. That was a surprise:  it was fast, it was cheap and in less than in 3 months chips came back and the yield was incredibly high compared to CCD which had a one year cycle time in extreme cases.  Thus when we had to do a commercial projects on time we decided to do this with CMOS just to keep up with the deadline.   Not that CCD was bad, on the contrary.
 
 **How did FillFactory start?**
@@ -78,7 +81,9 @@ By far not.  My brother has a large company in China and makes 3D animated movie
 **So one gets this from home?**
 
 I think so. I had parents that had an own business and worked very hard.   You learn not to be afraid of working. However, I am an engineer and the biggest inspiration for engineers is laziness. All mayor inventions are motivated by laziness. 
-How important it is to have an other, private part of life stabilizing all this?
+
+**How important it is to have an other, private part of life stabilizing all this?**
+
 It is very important to have a stable situation in private life. I have a very supporting wife, but also difficulties with my son right now, but fortunately when I go to work I can just turn off my other brain and work. You must have this capability to separate work and private life in both directions. The problems at work should not contaminate your private life and vice versa. That is important and nobody can do this perfectly.
 
 **How big you want to grow Caeleste?**
@@ -112,7 +117,9 @@ I am not a capitalist at all. I feel like someone who creates added value and at
 **How many different pixel design have you done in life?**
 
 I have designed myself at least 100 different imagers and as a team leader or CTO certainly more than 100. Many of those chips contained multiple variants of a baseline pixel. A large part must have been classic 3T and 4T pixel and an even larger amount of pixels which are “special”, with logic inside, or analog processing, or hybrid, or having some special feature like time gating or having certain functionality or redundancy. Every project is different. So if you ask, it will be around 1000. 
-How the image sensors will look like in 10 years. Do you look at the mobile market what they are doing?
+
+**How the image sensors will look like in 10 years. Do you look at the mobile market what they are doing?**
+
 I look because I am user and I am sometimes surprised how it is possible that they make such a fantastic image sensors with such terribly small pixels. In 1998 at the Image Sensor Workshop there was a debate about “what will be the smallest pixel that ever will be commercially available” and people agreed at that time that this would be 5 µm. 
 
 **And now it is something like 1µm.**
@@ -126,7 +133,9 @@ The pixel size race will stop, but what is not yet really there is a global shut
 **So what will happen with image sensors?**
  
 One nice idea from Aptina is to have multiple imagers on one die with multiple lenses so it is like an array of telescopes.  With an array of small telescopes you can emulate one big telescope. With an array of small lenses with low resolution you can emulate a bigger camera with a large lens.  This will be very useful for thin smartphones. 
-Can we somehow follow how our brain is made? Simple elements, but extremely high complexity with some amount of failure that can be tolerated.
+
+**Can we somehow follow how our brain is made? Simple elements, but extremely high complexity with some amount of failure that can be tolerated.**
+
 That is already the case today. Pixels are redundant, or interpolated in a smart way.  We asked at that time to Kodak how many failing pixels are allowed. The answer was: as many as you want, but after calibration they must all be fine. Commercial image sensors actually have real-time calibration and pixel interpolation. So if you would see the real, raw image [which is not the so-called raw image format] you would see plenty of defects. And what will happen with image sensors? They are so cheap they will be everywhere. It is very well possible that they will ubiquitous at every point where there is a network connection - not necessary Internet - just an ad-hoc network.  We can come to the situation that we can see from anywhere anything using the trillions of sensors that are spread over the world.
 
 **What for?**
