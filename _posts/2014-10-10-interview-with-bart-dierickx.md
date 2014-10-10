@@ -133,7 +133,5 @@ That is already the case today. Pixels are redundant, or interpolated in a smart
 
 That is the solution waiting for a problem.
 
-Thank you.
-
 {% include twitter_plug.html %}
 
