@@ -52,7 +52,7 @@ We are almost neighbours. They are at Mechelen North Industrial Area and we are 
 
 **You initially remained at Cypress. You did not leave the company.**
 
-I remained at Cypress but the atmosphere became a bit unpleasant. In big companies, there is tendency that people gather power and make fences around what is theirs and what you are not allowed to touch. At the end, I found myself in a not so interesting position. So I had some discussions with my old colleague Guy about should we not start over. He created CMOSIS and I with Patrick and Nick created Caeleste. I initially had the plan to just consult and design, and not to bother with products; but life changes.  We opted to have no venture capital. We started designing on Saturdays.  
+I remained at Cypress but the atmosphere became a bit unpleasant. In big companies, there is tendency that people gather power and make fences around what is theirs and what you are not allowed to touch. At the end, I found myself in a not so interesting position. So I had some discussions with my old colleague Guy about should we not start over. He created [CMOSIS](http://www.cmosis.com/) and I with Patrick and Nick created Caeleste. I initially had the plan to just consult and design, and not to bother with products; but life changes.  We opted to have no venture capital. We started designing on Saturdays.  
 
 **You went back to the garage?**
 
