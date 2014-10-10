@@ -123,7 +123,7 @@ So you see how it goes.
 
 The pixel size race will stop, but what is not yet really there is a global shutter in a small pixel.   That race is now going on. Today a 1µm pixel is a rolling shutter pixel: if you move your camera you get the jello effect. Global shutter pixels are the next big thing. They are racing again, maybe down to 1.5 µm?  But also that race might stop or reverse, as happened with telephones:  about 5 years ago mobile phones became smaller and smaller and everybody said that they would become so small that you would lose them. Suddenly they became bigger again due to the smartphones. All those smartphones have the size to fit in your hand and the hand does not scale.
 
-**So what will happen with image sensors? **
+**So what will happen with image sensors?**
  
 One nice idea from Aptina is to have multiple imagers on one die with multiple lenses so it is like an array of telescopes.  With an array of small telescopes you can emulate one big telescope. With an array of small lenses with low resolution you can emulate a bigger camera with a large lens.  This will be very useful for thin smartphones. 
 Can we somehow follow how our brain is made? Simple elements, but extremely high complexity with some amount of failure that can be tolerated.
