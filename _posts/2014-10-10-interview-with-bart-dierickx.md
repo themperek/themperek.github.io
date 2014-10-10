@@ -14,9 +14,9 @@ Hope to have more interviews and related post in future. To stay in touch follow
 
 **Yesterday, someone from Tower Jazz said “Belgium is famous for three things : chocolate, beer and image sensors.” How does this sound to you?**
 
-At the Faculty of Engineering of Leuven University there was a group making CCDs under the leadership of prof. Gilbert Declerck.  At that time, like many universities, Leuven University had a CCD process. Three months after I arrived at the university, January 1984, IMEC was founded and this entire CCD group was transferred to IMEC. In this way IMEC had initially a CCD process and we were doing CCD projects. I started designing a CCD for the readout of an infrared CMT array. The next project, which later became my PhD, was again an infra-red CCD detector that should work below 4 kelvin. 
+At the Faculty of Engineering of Leuven University there was a group making CCDs under the leadership of prof. Gilbert Declerck.  At that time, like many universities, Leuven University had a CCD process. Three months after I arrived at the university, January 1984, [IMEC](http://www.imec.be/) was founded and this entire CCD group was transferred to IMEC. In this way IMEC had initially a CCD process and we were doing CCD projects. I started designing a CCD for the readout of an infrared CMT array. The next project, which later became my PhD, was again an infra-red CCD detector that should work below 4 kelvin. 
 
-Sadly, CCDs do not work at those temperatures because dopants (acceptors, donors) become trapping centers in such amounts that no charge is transferred. So we brainstormed: CCDs do not work, maybe CMOS can work? A friend worked at the physics department at the other side of the street and had access to liquid Helium. We took an n-MOSFET and 3 long wires to observe real time operation of the device on a “curve tracer”. We dropped it the liquid Helium and we saw the now well-understood “noisy / kinky / hysteresis” response of the MOSFET.  My boss [Jan Vermeiren, now CTO of Xenics] said “this is a disaster we cannot make any circuit out of this”, but he allowed me to take the chance.  We needed to understand the phenomena observed, and use them to our advantage.   With proper choice of cascoding, proper balancing, selection of operating points, feedback and calibration we could make sufficiently linear circuits reaching the specs.  We managed to design nice zero-bias CTIAs that worked.  We were first to make 4 Kelvin CMOS analog circuits.  In the same period Erik Heijne of CERN came on sabbatical to our group and he and I and Jan Bosiers (now CTO of Teledyne-Dalsa) brainstormed a lot about event detecting CMOS sensors for High Energy Physics.
+Sadly, CCDs do not work at those temperatures because dopants (acceptors, donors) become trapping centers in such amounts that no charge is transferred. So we brainstormed: CCDs do not work, maybe CMOS can work? A friend worked at the physics department at the other side of the street and had access to liquid Helium. We took an n-MOSFET and 3 long wires to observe real time operation of the device on a “curve tracer”. We dropped it the liquid Helium and we saw the now well-understood “noisy / kinky / hysteresis” response of the MOSFET.  My boss (Jan Vermeiren, now CTO of [Xenics](http://www.xenics.com/) said “this is a disaster we cannot make any circuit out of this”, but he allowed me to take the chance.  We needed to understand the phenomena observed, and use them to our advantage.   With proper choice of cascoding, proper balancing, selection of operating points, feedback and calibration we could make sufficiently linear circuits reaching the specs.  We managed to design nice zero-bias CTIAs that worked.  We were first to make 4 Kelvin CMOS analog circuits.  In the same period Erik Heijne of [CERN](http://cern.ch/) came on sabbatical to our group and he and I and Jan Bosiers (now CTO of [Teledyne-Dalsa](https://www.teledynedalsa.com/) brainstormed a lot about event detecting CMOS sensors for High Energy Physics.
 
 **And naturally you started making image sensors for space?**
 
@@ -28,23 +28,23 @@ There has always been a pressure from society and IMEC management to create spin
 
 **Where came the money from?**
 
-It was venture capital. I had no idea about venture capital at that time, so the company got an external manager who became CEO and took care of that. One has to be aware that as soon you get venture capitalists there is a pressure to become big and to be sold.   This has a positive side, but also negative sides.   E.g. you lose the freedom to do certain things.
+It was venture capital. I had no idea about venture capital at that time, so the company got an external manager who became CEO and took care of that. One has to be aware that as soon you get venture capitalists there is a pressure to become big and to be sold. This has a positive side, but also negative sides. E.g. you lose the freedom to do certain things.
 
 **Could you tell something about the story with Kodak?**
 
-This was particular project that has put us on the map. Steve Noble of Kodak came to us to design a 14 Megapixel sensor. That was extravagantly large at that time (2001).  The only viable competitor and market leader, Canon, made a 13 Megapixel camera, and came on the market later than Kodak.  
+This was particular project that has put us on the map. Steve Noble of Kodak came to us to design a 14 Megapixel sensor. That was extravagantly large at that time (2001). The only viable competitor and market leader, Canon, made a 13 Megapixel camera, and came on the market later than Kodak.  
 
 **Why did Kodak pick you?**
 
-I also don't fully know why. They had a very advanced CCD process with very good products. Kodak BTW owned the pinned photodiode patent.  Maybe they did not know how to design CMOS sensors quickly, or possibly there was some internal competition with their CCD business unit so they came to us. We made it in relatively short time.
+I also don't fully know why. They had a very advanced CCD process with very good products. Kodak BTW owned the pinned photodiode patent. Maybe they did not know how to design CMOS sensors quickly, or possibly there was some internal competition with their CCD business unit so they came to us. We made it in relatively short time.
 
 **Was this stitched already?**
 
-It was stitched at Tower in 2002/2003. We learned together with Tower how to do stitching and actually how to make low dark current image sensors.  For our small company it was really a huge success; it had a volume of around 30k/year. This gave us quite a large visibility. At that moment Cypress Semiconductor became interested and wanted to buy us. They aimed to the cell-phone camera market, but in retrospect they were a bit too late; the market was already occupied. 
+It was stitched at Tower in 2002/2003. We learned together with Tower how to do stitching and actually how to make low dark current image sensors.  For our small company it was really a huge success; it had a volume of around 30k/year. This gave us quite a large visibility. At that moment [Cypress Semiconductor](http://www.cypress.com/) became interested and wanted to buy us. They aimed to the cell-phone camera market, but in retrospect they were a bit too late; the market was already occupied. 
 
 **And now it is all ON Semiconductor.**
 
-Yes. Cypress image sensors division was bought by ON Semiconductor and ON Semiconductor also bought Aptina and remainder of Kodak, Truesense.  So history does sometimes funny things.
+Yes. Cypress image sensors division was bought by [ON Semiconductor](http://www.onsemi.com/) and ON Semiconductor also bought Aptina and remainder of Kodak, Truesense.  So history does sometimes funny things.
 
 **So now you are neighbours?**
 
@@ -64,7 +64,7 @@ No, I left long before. I found asylum at IMEC. I was taken there as a kind of t
 
 **So you started from nothing or you had some client?**
 
-We started indeed with a “first customer”. There happened to be next to Cypress Ireland a company named SensL making SPADs and they needed a specific readout so they contacted Cypress at that time.  I met them for an initial discussion, but soon after, I left Cypress and I did not hear anything anymore. Months later they traced me back and said that they still needed the readout and that Cypress did not want or could not do it, and asked if I could do it.
+We started indeed with a “first customer”. There happened to be next to Cypress Ireland a company named [SensL](http://sensl.com/) making SPADs and they needed a specific readout so they contacted Cypress at that time.  I met them for an initial discussion, but soon after, I left Cypress and I did not hear anything anymore. Months later they traced me back and said that they still needed the readout and that Cypress did not want or could not do it, and asked if I could do it.
 
 **At this point it was not about money any more?**
 
@@ -136,7 +136,7 @@ One nice idea from Aptina is to have multiple imagers on one die with multiple l
 
 **Can we somehow follow how our brain is made? Simple elements, but extremely high complexity with some amount of failure that can be tolerated.**
 
-That is already the case today. Pixels are redundant, or interpolated in a smart way.  We asked at that time to Kodak how many failing pixels are allowed. The answer was: as many as you want, but after calibration they must all be fine. Commercial image sensors actually have real-time calibration and pixel interpolation. So if you would see the real, raw image [which is not the so-called raw image format] you would see plenty of defects. And what will happen with image sensors? They are so cheap they will be everywhere. It is very well possible that they will ubiquitous at every point where there is a network connection - not necessary Internet - just an ad-hoc network.  We can come to the situation that we can see from anywhere anything using the trillions of sensors that are spread over the world.
+That is already the case today. Pixels are redundant, or interpolated in a smart way.  We asked at that time to Kodak how many failing pixels are allowed. The answer was: as many as you want, but after calibration they must all be fine. Commercial image sensors actually have real-time calibration and pixel interpolation. So if you would see the real, raw image, which is not the so-called raw image format, you would see plenty of defects. And what will happen with image sensors? They are so cheap they will be everywhere. It is very well possible that they will ubiquitous at every point where there is a network connection - not necessary Internet - just an ad-hoc network.  We can come to the situation that we can see from anywhere anything using the trillions of sensors that are spread over the world.
 
 **What for?**
 
