@@ -12,7 +12,7 @@ I plan to have more interviews and related post in future. To stay in touch foll
 
 ![Workshop on CMOS Active Pixel Sensors for Particle Tracking (CPIX14) conference picture.](/assets/GroupPhotoCPIX14_bw.jpg)
 
-**Yesterday, someone from Tower Jazz said “Belgium is famous for three things : chocolate, beer and image sensors.” How does this sound to you?**
+**Yesterday, someone from Tower Jazz said “Belgium is famous for three things : chocolate, beer and image sensors.” How does it started in your case?**
 
 At the Faculty of Engineering of Leuven University there was a group making CCDs under the leadership of prof. Gilbert Declerck.  At that time, like many universities, Leuven University had a CCD process. Three months after I arrived at the university, January 1984, [IMEC](http://www.imec.be/) was founded and this entire CCD group was transferred to IMEC. In this way IMEC had initially a CCD process and we were doing CCD projects. I started designing a CCD for the readout of an infrared CMT array. The next project, which later became my PhD, was again an infra-red CCD detector that should work below 4 kelvin. 
 
