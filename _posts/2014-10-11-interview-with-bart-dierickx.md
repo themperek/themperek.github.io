@@ -8,7 +8,7 @@ permalink: Interview-with-Bart-Dierickx
 *During [Workshop on CMOS Active Pixel Sensors for Particle Tracking](http://indico.cern.ch/event/309449/) I have managed to interview [Bart Dierickx](https://www.linkedin.com/pub/bart-dierickx/3/470/a8a) who
 agreed to come to Bonn and give us a presentation on [Radiation hard design in CMOS image sensors](http://indico.cern.ch/event/309449/other-view?view=standard).
 Bart is one of the pioneers of CMOS image sensors. Currently he is a Founder and CTO of [Caeleste](http://www.caeleste.com/) and a professor at [Vrije Universiteit Brussel](http://www.vub.ac.be/en/).
-I plan to have more interviews and related post in future. To stay in touch follow me on [Twitter](https://twitter.com/themperek) and [LinkedIn](http://linkedin.com/in/hemperek).*
+I plan to have more interviews and related post in future. To stay in touch follow me on [Twitter](https://twitter.com/themperek), [LinkedIn](http://linkedin.com/in/hemperek) or subscribe to an [rss feeds]({{ site.url }}/atom.xml).*
 
 ![Workshop on CMOS Active Pixel Sensors for Particle Tracking (CPIX14) conference picture.](/assets/GroupPhotoCPIX14_bw.jpg)
 
