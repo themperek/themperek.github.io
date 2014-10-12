@@ -108,7 +108,7 @@ I have fired underperforming people.  I fired them not because I like that but b
 
 **But it is tough to fire first time or in Belgium people have no problem with that?**
 
-You bet. The situation was that this person did not understand that he was underperforming, but   quite on the opposite thought he was extremely good.  I understood at that time that it made not even sense to try to convince him. With retrospect it was a comforting thing that this person could go home and think that Dierickx is a creepy person and fired me because I am too good.  It remains difficult. On considers letting people work part time or things like that. One of course hopes that it will never happen but one has to anticipate it.
+You bet. The situation was that this person did not understand that he was underperforming, but   quite on the opposite thought he was extremely good.  I understood at that time that it made not even sense to try to convince him. With retrospect it was a comforting thing that this person could go home and think that Dierickx is a creepy person and fired me because I am too good.  It remains difficult. One considers letting people work part time or things like that. One of course hopes that it will never happen but one has to anticipate it.
 
 **What can you say to people who think you are a bad, rich capitalist?**
 
@@ -136,7 +136,8 @@ One nice idea from Aptina is to have multiple imagers on one die with multiple l
 
 **Can we somehow follow how our brain is made? Simple elements, but extremely high complexity with some amount of failure that can be tolerated.**
 
-That is already the case today. Pixels are redundant, or interpolated in a smart way.  We asked at that time to Kodak how many failing pixels are allowed. The answer was: as many as you want, but after calibration they must all be fine. Commercial image sensors actually have real-time calibration and pixel interpolation. So if you would see the real, raw image, which is not the so-called raw image format, you would see plenty of defects. And what will happen with image sensors? They are so cheap they will be everywhere. It is very well possible that they will ubiquitous at every point where there is a network connection - not necessary Internet - just an ad-hoc network.  We can come to the situation that we can see from anywhere anything using the trillions of sensors that are spread over the world.
+That is already the case today. Pixels are redundant, or interpolated in a smart way.  We asked at that time to Kodak how many failing pixels are allowed. The answer was: as many as you want, but after calibration they must all be fine. Commercial image sensors actually have real-time calibration and pixel interpolation. So if you would see the real, raw image, which is not the so-called raw image format, you would see plenty of defects. 
+And what will happen with image sensors? They are so cheap they will be everywhere. It is very well possible that they will ubiquitous at every point where there is a network connection - not necessary Internet - just an ad-hoc network.  We can come to the situation that we can see from anywhere anything using the trillions of sensors that are spread over the world.
 
 **What for?**
 
