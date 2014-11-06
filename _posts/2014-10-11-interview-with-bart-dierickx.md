@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interview with Bart Dierickx"
-comments: true
+comments: false
 permalink: Interview-with-Bart-Dierickx
 ---
 
